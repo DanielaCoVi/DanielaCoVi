@@ -1,4 +1,4 @@
-# ¡Hola de nuevo! Me encanta combinar mi experiencia en tecnologías clave como Python, MySQL y Power BI con mi pasión por el diseño y la creatividad en mi carrera de Data Science. Como diseñadora de UX/UI/IXD y amante del arte, creo que es importante no solo analizar los datos, sino también presentarlos de manera clara y atractiva para mejorar la comprensión y la toma de decisiones.
+¡Hola de nuevo! Me encanta combinar mi experiencia en tecnologías clave como Python, MySQL y Power BI con mi pasión por el diseño y la creatividad en mi carrera de Data Science. Como diseñadora de UX/UI/IXD y amante del arte, creo que es importante no solo analizar los datos, sino también presentarlos de manera clara y atractiva para mejorar la comprensión y la toma de decisiones.
 
 Mi formación en diseño gráfico y composición fotográfica me ha dado una visión única para crear visualizaciones de datos efectivas y estéticamente agradables. Además, he dado clases de crecimiento personal a través de disciplinas de arte, lo que me ha enseñado a ser más empático y comprensivo con las necesidades y perspectivas de las personas.
 
