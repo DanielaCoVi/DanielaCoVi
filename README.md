@@ -5,6 +5,6 @@ Mi formación en diseño gráfico y composición fotográfica me ha dado una vis
 En resumen, como profesional en Data Science, estoy apasionado por la evolución constante de la carrera y cómo puedo utilizar mis habilidades y herramientas para ayudar a las empresas a tomar decisiones más informadas y precisas. Mi sólida formación académica, experiencia en proyectos, habilidades de colaboración y enfoque creativo son los activos que aporto para agregar valor a cualquier proyecto en el que me involucre.
 
 Puedes ver un poco de mi :
- 👉 [https://github.com/DanielaCoVi?tab=repositories](https://www.linkedin.com/in/daniela-berenice-contreras-villafuerte-891792a8/)
+ 👉(https://www.linkedin.com/in/daniela-berenice-contreras-villafuerte-891792a8/)
 Y me contactas aquí:
  👉 berenicecontrerasvillafuerte@gmail.com
